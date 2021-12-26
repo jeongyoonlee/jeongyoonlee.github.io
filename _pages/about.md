@@ -1,8 +1,36 @@
 ---
+layout: page
+title: About Me
 permalink: /about/
-title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a native of South Korea and live in Los Angeles, California.  I am a Christian, married to the love of my life, and a father of five children.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am a Data Scientist at Netflix.
+
+I did my Ph.D. in Computer Science at University of Southern California, and went to Seoul National University and Chonnam Science High School.  I grew up in [Suncheon](https://en.wikipedia.org/wiki/Suncheon).
+
+# Vision
+
+To live a life worthy of the calling I have received
+
+# Mission
+
+* To be faithful and successful at home, work and ministry
+* To help people faithful and successful at home, work and ministry
+
+# Values F/I/S/H/E
+
+* Faith - Strive to be good and righteous
+* Integrity - Strive to walk the talk
+* Stewardship - Strive to serve, not to be served
+* Humility - Strive to learn and listen
+* Empathy - Strive to care others
+
+# Links
+
+* Twitter: [jeongyoonlee](http://twitter.com/jeongyoonlee)
+* LinkedIn: [Jeong-Yoon Lee](http://www.linkedin.com/in/jeongyoonlee)
+* Kaggle: [jeongyoonlee](https://www.kaggle.com/jeongyoonlee)
+* GitHub: [jeongyoonlee](https://github.com/jeongyoonlee)
+* YouTube: [LA오빠](https://www.youtube.com/channel/UCjhlZKSIRVvQxlUprmv0bdg), [KagglerTV](https://youtube.com/c/kagglertv)

@@ -27,9 +27,9 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -57,33 +57,42 @@ plugins:
 
 author:
   name   : "Jeong-Yoon Lee"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.png"
   bio    : "Father of Five/ ML at Netflix/ CausalML/ Kaggler"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/jeongyoonlee"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/jeongyoonlee"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/jeongyoonlee"
+    - label: "Kaggle"
+      icon: "fab fa-fw fa-kaggle"
+      url: "https://kaggle.com/jeongyoonlee"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://youtube.com/c/kagglertv"
 
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/jeongyoonlee"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/jeongyoonlee"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/jeongyoonlee"
+    - label: "Kaggle"
+      icon: "fab fa-fw fa-kaggle"
+      url: "https://kaggle.com/jeongyoonlee"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://youtube.com/c/kagglertv"
 
 defaults:
   # _posts
