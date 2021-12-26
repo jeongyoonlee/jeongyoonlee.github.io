@@ -1,8 +1,7 @@
 ---
 toc: true
-layout: post
 description:
-categories: [journal]
+categories: [poem]
 ---
 # 1995년 1월, 우종에게
 

@@ -2,7 +2,6 @@
 title: "Workout Routine in 2018"
 toc: false
 comments: true
-layout: post
 description:
 categories: [journal]
 ---

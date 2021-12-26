@@ -2,7 +2,6 @@
 title: "성공적인 직장생활을 위한 팁 – Collaboration"
 toc: false
 comments: true
-layout: post
 description:
 categories: [journal]
 ---

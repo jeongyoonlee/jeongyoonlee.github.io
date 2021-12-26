@@ -1,6 +1,5 @@
 ---
 toc: false
-layout: post
 description: 
 categories: [Journal, korean]
 title: Knowing Who I am

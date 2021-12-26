@@ -2,7 +2,6 @@
 title: "Quora: What should I do to get into Google’s DeepMind team?"
 toc: false
 comments: true
-layout: post
 description:
 categories: [journal]
 ---

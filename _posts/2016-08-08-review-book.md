@@ -1,6 +1,5 @@
 ---
 toc: true
-layout: post
 description:
 categories: [review]
 ---

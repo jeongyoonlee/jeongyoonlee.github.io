@@ -1,8 +1,7 @@
 ---
 toc: true
-layout: post
 description:
-categories: [journal]
+categories: [novel]
 ---
 # Life is Blues 3
 

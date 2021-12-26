@@ -2,7 +2,6 @@
 title: "Transition from Exploration to Exploitation"
 toc: false
 comments: true
-layout: post
 description:
 categories: [journal]
 ---

@@ -1,6 +1,5 @@
 ---
 toc: false
-layout: post
 description: 
 categories: [journal, korean]
 title: Bling Empire

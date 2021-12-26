@@ -1,8 +1,7 @@
 ---
 toc: true
-layout: post
 description:
-categories: [journal]
+categories: [poem]
 ---
 # 여름 비
 

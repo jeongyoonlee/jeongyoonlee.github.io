@@ -1,12 +1,11 @@
 ---
-layout: page
 title: About Me
 permalink: /about/
 ---
 
 I am a native of South Korea and live in Los Angeles, California.  I am a Christian, married to the love of my life, and a father of five children.
 
-I am a Data Scientist at Netflix.
+I work on Machine Learning at Netflix.
 
 I did my Ph.D. in Computer Science at University of Southern California, and went to Seoul National University and Chonnam Science High School.  I grew up in [Suncheon](https://en.wikipedia.org/wiki/Suncheon).
 
@@ -26,11 +25,3 @@ To live a life worthy of the calling I have received
 * Stewardship - Strive to serve, not to be served
 * Humility - Strive to learn and listen
 * Empathy - Strive to care others
-
-# Links
-
-* Twitter: [jeongyoonlee](http://twitter.com/jeongyoonlee)
-* LinkedIn: [Jeong-Yoon Lee](http://www.linkedin.com/in/jeongyoonlee)
-* Kaggle: [jeongyoonlee](https://www.kaggle.com/jeongyoonlee)
-* GitHub: [jeongyoonlee](https://github.com/jeongyoonlee)
-* YouTube: [LA오빠](https://www.youtube.com/channel/UCjhlZKSIRVvQxlUprmv0bdg), [KagglerTV](https://youtube.com/c/kagglertv)

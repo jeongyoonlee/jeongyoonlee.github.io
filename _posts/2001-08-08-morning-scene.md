@@ -1,8 +1,7 @@
 ---
 toc: true
-layout: post
 description:
-categories: [journal]
+categories: [poem]
 ---
 # 아침 풍경
 
